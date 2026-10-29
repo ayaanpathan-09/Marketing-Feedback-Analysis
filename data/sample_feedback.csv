@@ -1,0 +1,181 @@
+feedback_id,feedback_date,rating,campaign,channel,product,customer_segment,feedback_text
+FB-00001,2026-08-01,5.0,Diwali Sale,Email,Starter Plan,Returning,"Great offer and excellent value, the campaign was helpful."
+FB-00002,2026-08-02,4.0,Weekend Offer,Website,Premium Plan,New,I love the new product and the quality is excellent.
+FB-00003,2026-08-03,4.0,Loyalty Rewards,Email,Accessories,At Risk,The email was helpful and the discount was attractive.
+FB-00004,2026-08-04,5.0,New Product Launch,Website,Home Essentials,Loyal,Fast delivery and friendly support. Great experience.
+FB-00005,2026-08-05,,Diwali Sale,Email,Premium Plan,Returning,The campaign explained the benefits clearly.
+FB-00006,2026-08-06,3.0,Diwali Sale,Website,Accessories,New,Amazing value for money; I would recommend it.
+FB-00007,2026-08-07,5.0,Weekend Offer,Email,Home Essentials,At Risk,The website is smooth and checkout was easy.
+FB-00008,2026-08-08,5.0,Loyalty Rewards,SMS,Starter Plan,Loyal,I am happy with the service and product quality.
+FB-00009,2026-08-09,3.0,New Product Launch,Social Media,Accessories,Returning,The promotion was useful and simple to redeem.
+FB-00010,2026-08-10,5.0,Diwali Sale,SMS,Home Essentials,New,Great customer service and a wonderful experience.
+FB-00011,2026-08-11,3.0,Diwali Sale,Social Media,Starter Plan,At Risk,The offer was confusing and difficult to redeem.
+FB-00012,2026-08-12,1.0,Weekend Offer,SMS,Premium Plan,Loyal,The product quality was poor and disappointing.
+FB-00013,2026-08-13,2.0,Loyalty Rewards,Social Media,Home Essentials,Returning,Too many emails; the campaign feels like spam.
+FB-00014,2026-08-14,3.0,New Product Launch,SMS,Starter Plan,New,Delivery was late and support was unhelpful.
+FB-00015,2026-08-15,1.0,Diwali Sale,Website,Premium Plan,At Risk,The advertisement was misleading about the price.
+FB-00016,2026-08-16,1.0,Diwali Sale,Email,Accessories,Loyal,The website is slow and checkout has an issue.
+FB-00017,2026-08-17,1.0,Weekend Offer,Website,Starter Plan,Returning,The discount was unclear and the terms were confusing.
+FB-00018,2026-08-18,3.0,Loyalty Rewards,Email,Premium Plan,New,I am unhappy because the product arrived broken.
+FB-00019,2026-08-19,3.0,New Product Launch,Website,Accessories,At Risk,The price is expensive for this quality.
+FB-00020,2026-08-20,1.0,Diwali Sale,Email,Home Essentials,Loyal,The promotion was annoying and a waste of time.
+FB-00021,2026-08-21,,Diwali Sale,Website,Premium Plan,Returning,I saw the campaign on social media yesterday.
+FB-00022,2026-08-22,4.0,Weekend Offer,Social Media,Accessories,New,The email arrived in the morning.
+FB-00023,2026-08-23,3.0,Loyalty Rewards,SMS,Home Essentials,At Risk,The product is available in three sizes.
+FB-00024,2026-08-24,3.0,New Product Launch,Social Media,Starter Plan,Loyal,I visited the website to check the details.
+FB-00025,2026-08-25,3.0,Diwali Sale,SMS,Accessories,Returning,The advertisement included product information.
+FB-00026,2026-08-26,4.0,Diwali Sale,Social Media,Home Essentials,New,The message mentioned a seasonal promotion.
+FB-00027,2026-08-27,3.0,Weekend Offer,SMS,Starter Plan,At Risk,I purchased the item last week.
+FB-00028,2026-08-28,3.0,Loyalty Rewards,Social Media,Premium Plan,Loyal,The support team replied on Monday.
+FB-00029,2026-08-29,4.0,New Product Launch,Email,Home Essentials,Returning,The product page lists the available features.
+FB-00030,2026-08-30,4.0,Diwali Sale,Website,Starter Plan,New,I received a notification about the campaign.
+FB-00031,2026-08-31,5.0,Diwali Sale,Email,Premium Plan,At Risk,"Great offer and excellent value, the campaign was helpful."
+FB-00032,2026-09-01,2.0,Weekend Offer,Website,Accessories,Loyal,The promotion was confusing and the website was slow.
+FB-00033,2026-09-02,4.0,Loyalty Rewards,Email,Starter Plan,Returning,The email was helpful and the discount was attractive.
+FB-00034,2026-09-03,3.0,New Product Launch,Website,Premium Plan,New,Fast delivery and friendly support. Great experience.
+FB-00035,2026-09-04,3.0,Diwali Sale,Email,Accessories,At Risk,The campaign explained the benefits clearly.
+FB-00036,2026-09-05,3.0,Diwali Sale,SMS,Home Essentials,Loyal,Amazing value for money; I would recommend it.
+FB-00037,2026-09-06,3.0,Weekend Offer,Social Media,Premium Plan,Returning,The website is smooth and checkout was easy.
+FB-00038,2026-09-07,5.0,Loyalty Rewards,SMS,Accessories,New,I am happy with the service and product quality.
+FB-00039,2026-09-08,3.0,New Product Launch,Social Media,Home Essentials,At Risk,The promotion was useful and simple to redeem.
+FB-00040,2026-09-09,5.0,Diwali Sale,SMS,Starter Plan,Loyal,Great customer service and a wonderful experience.
+FB-00041,2026-09-10,2.0,Diwali Sale,Social Media,Accessories,Returning,The offer was confusing and difficult to redeem.
+FB-00042,2026-09-11,2.0,Weekend Offer,SMS,Home Essentials,New,The product quality was poor and disappointing.
+FB-00043,2026-09-12,1.0,Loyalty Rewards,Website,Starter Plan,At Risk,Too many emails; the campaign feels like spam.
+FB-00044,2026-09-13,4.0,New Product Launch,Email,Premium Plan,Loyal,Delivery was late and support was unhelpful.
+FB-00045,2026-09-14,1.0,Diwali Sale,Website,Home Essentials,Returning,The advertisement was misleading about the price.
+FB-00046,2026-09-15,3.0,Diwali Sale,Email,Starter Plan,New,The website is slow and checkout has an issue.
+FB-00047,2026-09-16,1.0,Weekend Offer,Website,Premium Plan,At Risk,The discount was unclear and the terms were confusing.
+FB-00048,2026-09-17,5.0,Loyalty Rewards,Email,Accessories,Loyal,I am unhappy because the product arrived broken.
+FB-00049,2026-09-18,2.0,New Product Launch,Website,Starter Plan,Returning,The price is expensive for this quality.
+FB-00050,2026-09-19,2.0,Diwali Sale,Social Media,Premium Plan,New,The promotion was annoying and a waste of time.
+FB-00051,2026-09-20,3.0,Diwali Sale,SMS,Accessories,At Risk,I saw the campaign on social media yesterday.
+FB-00052,2026-09-21,4.0,Weekend Offer,Social Media,Home Essentials,Loyal,The email arrived in the morning.
+FB-00053,2026-09-22,4.0,Loyalty Rewards,SMS,Premium Plan,Returning,The product is available in three sizes.
+FB-00054,2026-09-23,4.0,New Product Launch,Social Media,Accessories,New,I visited the website to check the details.
+FB-00055,2026-09-24,,Diwali Sale,SMS,Home Essentials,At Risk,The advertisement included product information.
+FB-00056,2026-09-25,3.0,Diwali Sale,Social Media,Starter Plan,Loyal,The message mentioned a seasonal promotion.
+FB-00057,2026-09-26,4.0,Weekend Offer,Email,Accessories,Returning,I purchased the item last week.
+FB-00058,2026-09-27,3.0,Loyalty Rewards,Website,Home Essentials,New,The support team replied on Monday.
+FB-00059,2026-09-28,3.0,New Product Launch,Email,Starter Plan,At Risk,The product page lists the available features.
+FB-00060,2026-09-29,3.0,Diwali Sale,Website,Premium Plan,Loyal,I received a notification about the campaign.
+FB-00061,2026-09-30,3.0,Diwali Sale,Email,Home Essentials,Returning,"Great offer and excellent value, the campaign was helpful."
+FB-00062,2026-10-01,5.0,Weekend Offer,Website,Starter Plan,New,I love the new product and the quality is excellent.
+FB-00063,2026-10-02,2.0,Loyalty Rewards,Email,Premium Plan,At Risk,The promotion was confusing and the website was slow.
+FB-00064,2026-10-03,5.0,New Product Launch,SMS,Accessories,Loyal,Fast delivery and friendly support. Great experience.
+FB-00065,2026-10-04,3.0,Diwali Sale,Social Media,Starter Plan,Returning,The campaign explained the benefits clearly.
+FB-00066,2026-10-05,3.0,Diwali Sale,SMS,Premium Plan,New,Amazing value for money; I would recommend it.
+FB-00067,2026-10-06,5.0,Weekend Offer,Social Media,Accessories,At Risk,The website is smooth and checkout was easy.
+FB-00068,2026-10-07,3.0,Loyalty Rewards,SMS,Home Essentials,Loyal,I am happy with the service and product quality.
+FB-00069,2026-10-08,3.0,New Product Launch,Social Media,Premium Plan,Returning,The promotion was useful and simple to redeem.
+FB-00070,2026-10-09,4.0,Diwali Sale,SMS,Accessories,New,Great customer service and a wonderful experience.
+FB-00071,2026-10-10,3.0,Diwali Sale,Website,Home Essentials,At Risk,The offer was confusing and difficult to redeem.
+FB-00072,2026-10-11,3.0,Weekend Offer,Email,Starter Plan,Loyal,The product quality was poor and disappointing.
+FB-00073,2026-10-12,1.0,Loyalty Rewards,Website,Accessories,Returning,Too many emails; the campaign feels like spam.
+FB-00074,2026-10-13,5.0,New Product Launch,Email,Home Essentials,New,Delivery was late and support was unhelpful.
+FB-00075,2026-10-14,2.0,Diwali Sale,Website,Starter Plan,At Risk,The advertisement was misleading about the price.
+FB-00076,2026-10-15,1.0,Diwali Sale,Email,Premium Plan,Loyal,The website is slow and checkout has an issue.
+FB-00077,2026-10-16,2.0,Weekend Offer,Website,Home Essentials,Returning,The discount was unclear and the terms were confusing.
+FB-00078,2026-10-17,4.0,Loyalty Rewards,Social Media,Starter Plan,New,I am unhappy because the product arrived broken.
+FB-00079,2026-10-18,3.0,New Product Launch,SMS,Premium Plan,At Risk,The price is expensive for this quality.
+FB-00080,2026-10-19,1.0,Diwali Sale,Social Media,Accessories,Loyal,The promotion was annoying and a waste of time.
+FB-00081,2026-10-20,4.0,Diwali Sale,SMS,Starter Plan,Returning,I saw the campaign on social media yesterday.
+FB-00082,2026-10-21,3.0,Weekend Offer,Social Media,Premium Plan,New,The email arrived in the morning.
+FB-00083,2026-10-22,,Loyalty Rewards,SMS,Accessories,At Risk,The product is available in three sizes.
+FB-00084,2026-10-23,,New Product Launch,Social Media,Home Essentials,Loyal,I visited the website to check the details.
+FB-00085,2026-10-24,3.0,Diwali Sale,Email,Premium Plan,Returning,The advertisement included product information.
+FB-00086,2026-10-25,3.0,Diwali Sale,Website,Accessories,New,The message mentioned a seasonal promotion.
+FB-00087,2026-10-26,3.0,Weekend Offer,Email,Home Essentials,At Risk,I purchased the item last week.
+FB-00088,2026-10-27,4.0,Loyalty Rewards,Website,Starter Plan,Loyal,The support team replied on Monday.
+FB-00089,2026-10-28,,New Product Launch,Email,Accessories,Returning,The product page lists the available features.
+FB-00090,2026-10-29,3.0,Diwali Sale,Website,Home Essentials,New,I received a notification about the campaign.
+FB-00091,2026-08-01,3.0,Diwali Sale,Email,Starter Plan,At Risk,"Great offer and excellent value, the campaign was helpful."
+FB-00092,2026-08-02,5.0,Weekend Offer,SMS,Premium Plan,Loyal,I love the new product and the quality is excellent.
+FB-00093,2026-08-03,5.0,Loyalty Rewards,Social Media,Home Essentials,Returning,The email was helpful and the discount was attractive.
+FB-00094,2026-08-04,1.0,New Product Launch,SMS,Starter Plan,New,The promotion was confusing and the website was slow.
+FB-00095,2026-08-05,3.0,Diwali Sale,Social Media,Premium Plan,At Risk,The campaign explained the benefits clearly.
+FB-00096,2026-08-06,5.0,Diwali Sale,SMS,Accessories,Loyal,Amazing value for money; I would recommend it.
+FB-00097,2026-08-07,5.0,Weekend Offer,Social Media,Starter Plan,Returning,The website is smooth and checkout was easy.
+FB-00098,2026-08-08,5.0,Loyalty Rewards,SMS,Premium Plan,New,I am happy with the service and product quality.
+FB-00099,2026-08-09,3.0,New Product Launch,Website,Accessories,At Risk,The promotion was useful and simple to redeem.
+FB-00100,2026-08-10,3.0,Diwali Sale,Email,Home Essentials,Loyal,Great customer service and a wonderful experience.
+FB-00101,2026-08-11,2.0,Diwali Sale,Website,Premium Plan,Returning,The offer was confusing and difficult to redeem.
+FB-00102,2026-08-12,1.0,Weekend Offer,Email,Accessories,New,The product quality was poor and disappointing.
+FB-00103,2026-08-13,3.0,Loyalty Rewards,Website,Home Essentials,At Risk,Too many emails; the campaign feels like spam.
+FB-00104,2026-08-14,5.0,New Product Launch,Email,Starter Plan,Loyal,Delivery was late and support was unhelpful.
+FB-00105,2026-08-15,3.0,Diwali Sale,Website,Accessories,Returning,The advertisement was misleading about the price.
+FB-00106,2026-08-16,2.0,Diwali Sale,Social Media,Home Essentials,New,The website is slow and checkout has an issue.
+FB-00107,2026-08-17,3.0,Weekend Offer,SMS,Starter Plan,At Risk,The discount was unclear and the terms were confusing.
+FB-00108,2026-08-18,4.0,Loyalty Rewards,Social Media,Premium Plan,Loyal,I am unhappy because the product arrived broken.
+FB-00109,2026-08-19,2.0,New Product Launch,SMS,Home Essentials,Returning,The price is expensive for this quality.
+FB-00110,2026-08-20,2.0,Diwali Sale,Social Media,Starter Plan,New,The promotion was annoying and a waste of time.
+FB-00111,2026-08-21,,Diwali Sale,SMS,Premium Plan,At Risk,I saw the campaign on social media yesterday.
+FB-00112,2026-08-22,,Weekend Offer,Social Media,Accessories,Loyal,The email arrived in the morning.
+FB-00113,2026-08-23,4.0,Loyalty Rewards,Email,Starter Plan,Returning,The product is available in three sizes.
+FB-00114,2026-08-24,3.0,New Product Launch,Website,Premium Plan,New,I visited the website to check the details.
+FB-00115,2026-08-25,4.0,Diwali Sale,Email,Accessories,At Risk,The advertisement included product information.
+FB-00116,2026-08-26,3.0,Diwali Sale,Website,Home Essentials,Loyal,The message mentioned a seasonal promotion.
+FB-00117,2026-08-27,3.0,Weekend Offer,Email,Premium Plan,Returning,I purchased the item last week.
+FB-00118,2026-08-28,3.0,Loyalty Rewards,Website,Accessories,New,The support team replied on Monday.
+FB-00119,2026-08-29,4.0,New Product Launch,Email,Home Essentials,At Risk,The product page lists the available features.
+FB-00120,2026-08-30,,Diwali Sale,SMS,Starter Plan,Loyal,I received a notification about the campaign.
+FB-00121,2026-08-31,5.0,Diwali Sale,Social Media,Accessories,Returning,"Great offer and excellent value, the campaign was helpful."
+FB-00122,2026-09-01,5.0,Weekend Offer,SMS,Home Essentials,New,I love the new product and the quality is excellent.
+FB-00123,2026-09-02,4.0,Loyalty Rewards,Social Media,Starter Plan,At Risk,The email was helpful and the discount was attractive.
+FB-00124,2026-09-03,5.0,New Product Launch,SMS,Premium Plan,Loyal,Fast delivery and friendly support. Great experience.
+FB-00125,2026-09-04,1.0,Diwali Sale,Social Media,Home Essentials,Returning,The promotion was confusing and the website was slow.
+FB-00126,2026-09-05,5.0,Diwali Sale,SMS,Starter Plan,New,Amazing value for money; I would recommend it.
+FB-00127,2026-09-06,3.0,Weekend Offer,Website,Premium Plan,At Risk,The website is smooth and checkout was easy.
+FB-00128,2026-09-07,3.0,Loyalty Rewards,Email,Accessories,Loyal,I am happy with the service and product quality.
+FB-00129,2026-09-08,4.0,New Product Launch,Website,Starter Plan,Returning,The promotion was useful and simple to redeem.
+FB-00130,2026-09-09,4.0,Diwali Sale,Email,Premium Plan,New,Great customer service and a wonderful experience.
+FB-00131,2026-09-10,2.0,Diwali Sale,Website,Accessories,At Risk,The offer was confusing and difficult to redeem.
+FB-00132,2026-09-11,3.0,Weekend Offer,Email,Home Essentials,Loyal,The product quality was poor and disappointing.
+FB-00133,2026-09-12,1.0,Loyalty Rewards,Website,Premium Plan,Returning,Too many emails; the campaign feels like spam.
+FB-00134,2026-09-13,5.0,New Product Launch,Social Media,Accessories,New,Delivery was late and support was unhelpful.
+FB-00135,2026-09-14,3.0,Diwali Sale,SMS,Home Essentials,At Risk,The advertisement was misleading about the price.
+FB-00136,2026-09-15,2.0,Diwali Sale,Social Media,Starter Plan,Loyal,The website is slow and checkout has an issue.
+FB-00137,2026-09-16,1.0,Weekend Offer,SMS,Accessories,Returning,The discount was unclear and the terms were confusing.
+FB-00138,2026-09-17,5.0,Loyalty Rewards,Social Media,Home Essentials,New,I am unhappy because the product arrived broken.
+FB-00139,2026-09-18,3.0,New Product Launch,SMS,Starter Plan,At Risk,The price is expensive for this quality.
+FB-00140,2026-09-19,3.0,Diwali Sale,Social Media,Premium Plan,Loyal,The promotion was annoying and a waste of time.
+FB-00141,2026-09-20,3.0,Diwali Sale,Email,Home Essentials,Returning,I saw the campaign on social media yesterday.
+FB-00142,2026-09-21,,Weekend Offer,Website,Starter Plan,New,The email arrived in the morning.
+FB-00143,2026-09-22,4.0,Loyalty Rewards,Email,Premium Plan,At Risk,The product is available in three sizes.
+FB-00144,2026-09-23,,New Product Launch,Website,Accessories,Loyal,I visited the website to check the details.
+FB-00145,2026-09-24,3.0,Diwali Sale,Email,Starter Plan,Returning,The advertisement included product information.
+FB-00146,2026-09-25,4.0,Diwali Sale,Website,Premium Plan,New,The message mentioned a seasonal promotion.
+FB-00147,2026-09-26,4.0,Weekend Offer,Email,Accessories,At Risk,I purchased the item last week.
+FB-00148,2026-09-27,3.0,Loyalty Rewards,SMS,Home Essentials,Loyal,The support team replied on Monday.
+FB-00149,2026-09-28,3.0,New Product Launch,Social Media,Premium Plan,Returning,The product page lists the available features.
+FB-00150,2026-09-29,3.0,Diwali Sale,SMS,Accessories,New,I received a notification about the campaign.
+FB-00151,2026-09-30,3.0,Diwali Sale,Social Media,Home Essentials,At Risk,"Great offer and excellent value, the campaign was helpful."
+FB-00152,2026-10-01,3.0,Weekend Offer,SMS,Starter Plan,Loyal,I love the new product and the quality is excellent.
+FB-00153,2026-10-02,4.0,Loyalty Rewards,Social Media,Accessories,Returning,The email was helpful and the discount was attractive.
+FB-00154,2026-10-03,3.0,New Product Launch,SMS,Home Essentials,New,Fast delivery and friendly support. Great experience.
+FB-00155,2026-10-04,,Diwali Sale,Website,Starter Plan,At Risk,The campaign explained the benefits clearly.
+FB-00156,2026-10-05,2.0,Diwali Sale,Email,Premium Plan,Loyal,The promotion was confusing and the website was slow.
+FB-00157,2026-10-06,5.0,Weekend Offer,Website,Home Essentials,Returning,The website is smooth and checkout was easy.
+FB-00158,2026-10-07,3.0,Loyalty Rewards,Email,Starter Plan,New,I am happy with the service and product quality.
+FB-00159,2026-10-08,4.0,New Product Launch,Website,Premium Plan,At Risk,The promotion was useful and simple to redeem.
+FB-00160,2026-10-09,5.0,Diwali Sale,Email,Accessories,Loyal,Great customer service and a wonderful experience.
+FB-00161,2026-10-10,2.0,Diwali Sale,Website,Starter Plan,Returning,The offer was confusing and difficult to redeem.
+FB-00162,2026-10-11,2.0,Weekend Offer,Social Media,Premium Plan,New,The product quality was poor and disappointing.
+FB-00163,2026-10-12,2.0,Loyalty Rewards,SMS,Accessories,At Risk,Too many emails; the campaign feels like spam.
+FB-00164,2026-10-13,3.0,New Product Launch,Social Media,Home Essentials,Loyal,Delivery was late and support was unhelpful.
+FB-00165,2026-10-14,1.0,Diwali Sale,SMS,Premium Plan,Returning,The advertisement was misleading about the price.
+FB-00166,2026-10-15,3.0,Diwali Sale,Social Media,Accessories,New,The website is slow and checkout has an issue.
+FB-00167,2026-10-16,3.0,Weekend Offer,SMS,Home Essentials,At Risk,The discount was unclear and the terms were confusing.
+FB-00168,2026-10-17,5.0,Loyalty Rewards,Social Media,Starter Plan,Loyal,I am unhappy because the product arrived broken.
+FB-00169,2026-10-18,2.0,New Product Launch,Email,Accessories,Returning,The price is expensive for this quality.
+FB-00170,2026-10-19,1.0,Diwali Sale,Website,Home Essentials,New,The promotion was annoying and a waste of time.
+FB-00171,2026-10-20,,Diwali Sale,Email,Starter Plan,At Risk,I saw the campaign on social media yesterday.
+FB-00172,2026-10-21,3.0,Weekend Offer,Website,Premium Plan,Loyal,The email arrived in the morning.
+FB-00173,2026-10-22,4.0,Loyalty Rewards,Email,Home Essentials,Returning,The product is available in three sizes.
+FB-00174,2026-10-23,3.0,New Product Launch,Website,Starter Plan,New,I visited the website to check the details.
+FB-00175,2026-10-24,4.0,Diwali Sale,Email,Premium Plan,At Risk,The advertisement included product information.
+FB-00176,2026-10-25,3.0,Diwali Sale,SMS,Accessories,Loyal,The message mentioned a seasonal promotion.
+FB-00177,2026-10-26,,Weekend Offer,Social Media,Starter Plan,Returning,I purchased the item last week.
+FB-00178,2026-10-27,3.0,Loyalty Rewards,SMS,Premium Plan,New,The support team replied on Monday.
+FB-00179,2026-10-28,4.0,New Product Launch,Social Media,Accessories,At Risk,The product page lists the available features.
+FB-00180,2026-10-29,,Diwali Sale,SMS,Home Essentials,Loyal,I received a notification about the campaign.
